@@ -1,0 +1,6 @@
+internal class Cars 
+{
+private int id;
+private string? Name;
+
+}
